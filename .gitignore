@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.expo/
+coverage/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+/package-lock.json
+EJERCICIO-01/frontend/.claude/
+EJERCICIO-01/frontend/AGENTS.md
+EJERCICIO-01/frontend/CLAUDE.md
+EJERCICIO-01/backend/.git/
